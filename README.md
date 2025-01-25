@@ -72,3 +72,5 @@ buscador_googlemaps/
         ├── maps_service.py
         └── storage_service.py
 ```
+
+![CleanShot 2025-01-25 at 19 37 31@2x](https://github.com/user-attachments/assets/0e7214a3-00fa-43fd-b1d0-393755b15486)
